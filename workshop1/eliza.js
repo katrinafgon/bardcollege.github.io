@@ -29,7 +29,8 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "Hello Prime Overlord Katrina. What can I do for you today?"
+    "Hello, Prime Overlord Katrina. What can I do for you today?",
+    "Welcome to SKYNET. What can I do for you today?",
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
